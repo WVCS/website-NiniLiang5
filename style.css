@@ -38,3 +38,37 @@ li a {
   padding: 15px 50px;
     text-shadow: 2px 2px black;
 }
+h2 {
+  color: white;
+  text-decoration: dotted 3px overline underline;
+}
+
+body {
+  background-color: #FFCDD1;
+}
+
+
+}
+
+h2:hover {
+  font-size: 300%;
+  text-transform: uppercase;
+  text-decoration: wavy underline cyan;
+}
+nav {
+  list-style-type: none;
+  width: 100%;
+  background-color:  #FFCDD1;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+li a {
+  color: white;
+  text-decoration: none;
+  display: block;
+  float: left;
+  padding: 15px 50px;
+    text-shadow: 2px 2px black;
+}
